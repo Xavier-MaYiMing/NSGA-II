@@ -49,5 +49,5 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/NSGA-II/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/NSGA-II/blob/main/Pareto%20front.png)
 
